@@ -5,10 +5,12 @@
 #### By *Samuel Kibe Muchiri
 
 ## Description
-It's a webpage that utilises swapcase function to change the format of the desired sentence .
+It's a webpage that utilises array knowledge to generate an array , using 'push' , 'if...else.' , and 'for' functions for its actuality .
+Return function is also utilised so as to implement the changes 
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
+No additional installations required 
 
 ## Installation Requirements
 Git
@@ -22,8 +24,6 @@ Git clone git@github.com:lonestar-19/code-challenge--2.git
 [Git](gh-pages link)
 
 ## Technologies used
-HTML
-CSS
 Github
 Javascript
 
@@ -33,7 +33,3 @@ github.com/Samuel.Kibe
 ### License
 The content of this site is licensed under the MIT license
 Copyright (c) 2024.
-
-
-
-
